@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Pagina de politica: util para quem visita, sem valor de busca.
+Disallow: /privacidade.html
+
+Sitemap: https://sauloflima.github.io/site-casa-do-barbudo/sitemap.xml
